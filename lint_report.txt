@@ -1,0 +1,11 @@
+************* Module src.calculator
+src\calculator.py:22:16: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:24:17: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:26:19: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:28:13: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:29:75: C0303: Trailing whitespace (trailing-whitespace)
+src\calculator.py:35:0: C0304: Final newline missing (missing-final-newline)
+
+------------------------------------------------------------------
+Your code has been rated at 6.67/10 (previous run: 6.67/10, +0.00)
+
